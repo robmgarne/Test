@@ -1,2 +1,2 @@
 print("cocks")
-# cocks
+# cock
